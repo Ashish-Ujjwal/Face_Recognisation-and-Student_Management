@@ -4,11 +4,11 @@
 
 <h2>Project Screenshots:</h2>
 
+<img src="https://github.com/Ashish-Ujjwal/Face_Recognisation-and-Student_Management/blob/main/Main%20Image/Screenshot%20(19).png" alt="project-screenshot" width="1000" height="500/">
+
 <img src="https://github.com/Ashish-Ujjwal/Face_Recognization/blob/main/Image/z%20(5).png" alt="project-screenshot" width="1000" height="500/">
 
 <img src="https://github.com/Ashish-Ujjwal/Face_Recognisation-and-Student_Management/blob/main/Main%20Image/Screenshot%202023-09-11%20195147.png" alt="project-screenshot" width="1000" height="500/">
-
-<img src="https://github.com/Ashish-Ujjwal/Face_Recognisation-and-Student_Management/blob/main/Main%20Image/Screenshot%20(19).png" alt="project-screenshot" width="1000" height="500/">
 
 
 <img src="https://github.com/Ashish-Ujjwal/Face_Recognisation-and-Student_Management/blob/main/Main%20Image/Screenshot%202023-09-11%20195111.png" alt="project-screenshot" width="500" height="500/">
